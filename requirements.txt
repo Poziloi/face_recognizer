@@ -1,0 +1,10 @@
+numpy==2.2.0
+opencv-contrib-python==4.10.0.84
+packaging==24.2
+pefile==2023.2.7
+pillow==11.0.0
+pyinstaller==6.11.1
+pyinstaller-hooks-contrib==2024.10
+pywin32-ctypes==0.2.3
+setuptools==75.6.0
+altgraph==0.17.4
